@@ -3,7 +3,7 @@ This is a signals and slots library for nim.
 
 ### Performance
 **sling** is around 10x slower than traditional callbacks, which is the same speed as Qt's signal and slots library.
-A signal callback takes around 2ns, which a C callback version will take around 0.2ns overall, now much to worry about.
+A signal callback takes around 2ns, which a C callback version will take around 0.2ns overall, not much to worry about.
 
 ### Usage
 ```nim
