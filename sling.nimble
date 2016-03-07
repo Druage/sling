@@ -6,4 +6,4 @@ description: "A signal and slot implementation for Nim"
 license: "unlicense"
 
 [Deps]
-requires: "nimrod > 0.13.0"
+requires: "nimrod >= 0.13.0"
